@@ -7,7 +7,11 @@ Git
 		> 여기가 가장 배우기 쉬움.
 		> 찾아보기를 참고하여 운영하면 될 듯.
 	* 개인 테스트용 프로젝트: [https://corean.backlogtool.com/dashboard](https://corean.backlogtool.com/dashboard)
-
+	*https://git-scm.com/book/ko/v2
+	*https://try.github.io/
+	*http://www.slideshare.net/ibare/dvcs-git
+	*http://learnbranch.urigit.com/
+	*https://guides.github.com/features/issues/
 * 용어
 	* Commit 
 		* 커밋을 하는 행위가 HEAD에 반영한다는 뜻
